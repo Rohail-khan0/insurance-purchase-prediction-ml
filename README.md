@@ -41,17 +41,26 @@ The model takes the following inputs:
 - **Streamlit** (based on implementation)
 
 **✅ Output**
+
 Prediction:
 ✔ Customer will take insurance
+
 ❌ Customer will not take insurance
 
 **📌 Use Case**
+
 Insurance companies
+
 Data science students
+
 Machine learning demos
 
 **📚 Future Improvements**
+
 Use advanced models (Random Forest, XGBoost)
+
 Add probability score visualization
+
 Improve UI/UX
+
 Deploy on cloud (Heroku / Render)
